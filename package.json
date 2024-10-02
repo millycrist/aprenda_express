@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0"
+  },
+  "name": "aprenda_express",
+  "version": "1.0.0",
+  "description": "aprenda express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/millycrist/aprenda_express.git)"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongoose"
+  ],
+  "author": "Milena Cristina Hosana De Sousa",
+  "license": "MIT"
+}
